@@ -1,0 +1,2648 @@
+//  hadoop/tools/lib/hadoop-dynamometer-infra-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-dynamometer-infra:3.3.3"
+
+//  hadoop/tools/lib/kafka-clients-2.8.1.jar -->
+// Found info on search.maven.org for hadoop/tools/lib/kafka-clients-2.8.1.jar --> implementation "org.apache.kafka:kafka-clients:2.8.1"
+//  hadoop/tools/lib/hadoop-aws-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-aws:3.3.3"
+
+//  hadoop/tools/lib/hadoop-fs2img-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-fs2img:3.3.3"
+
+//  hadoop/tools/lib/wildfly-openssl-1.0.7.Final.jar -->
+implementation "org.wildfly.openssl
+org.wildfly.openssl
+org.wildfly.openssl
+org.wildfly.openssl
+org.wildfly.openssl
+org.wildfly.openssl
+org.wildfly.openssl
+org.wildfly.openssl:wildfly-openssl
+wildfly-openssl-java
+wildfly-openssl-linux-x86_64
+wildfly-openssl-windows-x86_64
+wildfly-openssl-windows-i386
+wildfly-openssl-linux-i386
+wildfly-openssl-macosx-x86_64
+wildfly-openssl-solaris-x86_64:1.0.7.Final
+1.0.7.Final
+1.0.7.Final
+1.0.7.Final
+1.0.7.Final
+1.0.7.Final
+1.0.7.Final
+1.0.7.Final"
+
+//  hadoop/tools/lib/ini4j-0.5.4.jar -->
+implementation "org.ini4j:ini4j:0.5.4"
+
+//  hadoop/tools/lib/aliyun-java-sdk-kms-2.11.0.jar -->
+implementation "com.aliyun:aliyun-java-sdk-kms:2.11.0"
+
+//  hadoop/tools/lib/opentracing-api-0.33.0.jar -->
+implementation "io.opentracing:opentracing-api:0.33.0"
+
+//  hadoop/tools/lib/aliyun-sdk-oss-3.13.0.jar -->
+implementation "com.aliyun.oss:aliyun-sdk-oss:3.13.0"
+
+//  hadoop/tools/lib/azure-data-lake-store-sdk-2.3.9.jar -->
+implementation "com.microsoft.azure:azure-data-lake-store-sdk:2.3.9"
+
+//  hadoop/tools/lib/jdk.tools-1.8.jar -->
+//  hadoop/tools/lib/aliyun-java-sdk-ram-3.1.0.jar -->
+implementation "com.aliyun:aliyun-java-sdk-ram:3.1.0"
+
+//  hadoop/tools/lib/azure-keyvault-core-1.0.0.jar -->
+implementation "com.microsoft.azure:azure-keyvault-core:1.0.0"
+
+//  hadoop/tools/lib/junit-4.13.2.jar -->
+// Found info on search.maven.org for hadoop/tools/lib/junit-4.13.2.jar --> implementation "junit:junit:4.13.2"
+//  hadoop/tools/lib/hadoop-extras-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-extras:3.3.3"
+
+//  hadoop/tools/lib/hadoop-dynamometer-blockgen-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-dynamometer-blockgen:3.3.3"
+
+//  hadoop/tools/lib/opentracing-noop-0.33.0.jar -->
+implementation "io.opentracing:opentracing-noop:0.33.0"
+
+//  hadoop/tools/lib/hadoop-aliyun-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-aliyun:3.3.3"
+
+//  hadoop/tools/lib/aws-java-sdk-bundle-1.11.1026.jar -->
+implementation "com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+io.netty
+io.netty
+org.jctools
+io.netty
+io.netty
+io.netty
+io.netty
+io.netty
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+com.amazonaws
+commons-logging
+commons-codec
+org.apache.httpcomponents
+org.apache.httpcomponents
+software.amazon.ion
+com.fasterxml.jackson.core
+com.fasterxml.jackson.core
+com.fasterxml.jackson.core
+com.fasterxml.jackson.dataformat
+joda-time
+com.amazonaws
+com.amazonaws:aws-java-sdk-bundle
+aws-java-sdk
+aws-java-sdk-apprunner
+jmespath-java
+aws-java-sdk-applicationcostprofiler
+aws-java-sdk-ssmcontacts
+aws-java-sdk-ssmincidents
+aws-java-sdk-finspacedata
+aws-java-sdk-finspace
+aws-java-sdk-nimblestudio
+aws-java-sdk-lookoutequipment
+aws-java-sdk-mgn
+aws-java-sdk-lookoutmetrics
+aws-java-sdk-fis
+aws-java-sdk-lexmodelsv2
+aws-java-sdk-lexruntimev2
+aws-java-sdk-wellarchitected
+aws-java-sdk-location
+aws-java-sdk-iotdeviceadvisor
+aws-java-sdk-iotfleethub
+aws-java-sdk-iotwireless
+aws-java-sdk-greengrassv2
+aws-java-sdk-prometheus
+aws-java-sdk-auditmanager
+aws-java-sdk-healthlake
+aws-java-sdk-sagemakeredgemanager
+aws-java-sdk-emrcontainers
+aws-java-sdk-customerprofiles
+aws-java-sdk-lookoutforvision
+aws-java-sdk-connectcontactlens
+aws-java-sdk-amplifybackend
+aws-java-sdk-ecrpublic
+aws-java-sdk-appintegrations
+aws-java-sdk-sagemakerfeaturestoreruntime
+aws-java-sdk-devopsguru
+aws-java-sdk-mwaa
+aws-java-sdk-networkfirewall
+aws-java-sdk-appregistry
+aws-java-sdk-gluedatabrew
+aws-java-sdk-s3outposts
+aws-java-sdk-timestreamquery
+aws-java-sdk-timestreamwrite
+aws-java-sdk-ssoadmin
+aws-java-sdk-redshiftdataapi
+aws-java-sdk-appflow
+aws-java-sdk-identitystore
+aws-java-sdk-braket
+aws-java-sdk-ivs
+aws-java-sdk-honeycode
+aws-java-sdk-codeartifact
+aws-java-sdk-macie2
+aws-java-sdk-iotsitewise
+aws-java-sdk-synthetics
+aws-java-sdk-codestarconnections
+aws-java-sdk-detective
+aws-java-sdk-kinesisvideosignalingchannels
+aws-java-sdk-ebs
+aws-java-sdk-augmentedairuntime
+aws-java-sdk-outposts
+aws-java-sdk-codeguruprofiler
+aws-java-sdk-codegurureviewer
+aws-java-sdk-frauddetector
+aws-java-sdk-kendra
+aws-java-sdk-networkmanager
+aws-java-sdk-computeoptimizer
+aws-java-sdk-accessanalyzer
+aws-java-sdk-schemas
+aws-java-sdk-imagebuilder
+aws-java-sdk-elasticinference
+aws-java-sdk-iotsecuretunneling
+aws-java-sdk-appconfig
+aws-java-sdk-wafv2
+aws-java-sdk-connectparticipant
+aws-java-sdk-migrationhubconfig
+aws-java-sdk-dataexchange
+aws-java-sdk-sesv2
+aws-java-sdk-marketplacecatalog
+aws-java-sdk-ssooidc
+aws-java-sdk-sso
+aws-java-sdk-savingsplans
+aws-java-sdk-codestarnotifications
+aws-java-sdk-workmailmessageflow
+aws-java-sdk-qldbsession
+aws-java-sdk-qldb
+aws-java-sdk-forecastquery
+aws-java-sdk-forecast
+aws-java-sdk-lakeformation
+aws-java-sdk-eventbridge
+aws-java-sdk-ec2instanceconnect
+aws-java-sdk-applicationinsights
+aws-java-sdk-servicequotas
+aws-java-sdk-personalizeevents
+aws-java-sdk-personalize
+aws-java-sdk-personalizeruntime
+aws-java-sdk-ioteventsdata
+aws-java-sdk-iotevents
+aws-java-sdk-iotthingsgraph
+aws-java-sdk-groundstation
+aws-java-sdk-mediapackagevod
+aws-java-sdk-managedblockchain
+aws-java-sdk-textract
+aws-java-sdk-worklink
+aws-java-sdk-backup
+aws-java-sdk-docdb
+aws-java-sdk-apigatewayv2
+aws-java-sdk-apigatewaymanagementapi
+aws-java-sdk-kafka
+aws-java-sdk-appmesh
+aws-java-sdk-licensemanager
+aws-java-sdk-securityhub
+aws-java-sdk-fsx
+aws-java-sdk-mediaconnect
+aws-java-sdk-kinesisanalyticsv2
+aws-java-sdk-comprehendmedical
+aws-java-sdk-globalaccelerator
+aws-java-sdk-transfer
+aws-java-sdk-datasync
+aws-java-sdk-robomaker
+aws-java-sdk-amplify
+aws-java-sdk-quicksight
+aws-java-sdk-rdsdata
+aws-java-sdk-route53resolver
+aws-java-sdk-ram
+aws-java-sdk-s3control
+aws-java-sdk-pinpointsmsvoice
+aws-java-sdk-pinpointemail
+aws-java-sdk-chime
+aws-java-sdk-signer
+aws-java-sdk-dlm
+aws-java-sdk-macie
+aws-java-sdk-eks
+aws-java-sdk-mediatailor
+aws-java-sdk-neptune
+aws-java-sdk-pi
+aws-java-sdk-iot1clickprojects
+aws-java-sdk-iot1clickdevices
+aws-java-sdk-iotanalytics
+aws-java-sdk-acmpca
+aws-java-sdk-secretsmanager
+aws-java-sdk-fms
+aws-java-sdk-connect
+aws-java-sdk-transcribe
+aws-java-sdk-autoscalingplans
+aws-java-sdk-workmail
+aws-java-sdk-servicediscovery
+aws-java-sdk-cloud9
+aws-java-sdk-serverlessapplicationrepository
+aws-java-sdk-alexaforbusiness
+aws-java-sdk-resourcegroups
+aws-java-sdk-comprehend
+aws-java-sdk-translate
+aws-java-sdk-sagemaker
+aws-java-sdk-iotjobsdataplane
+aws-java-sdk-sagemakerruntime
+aws-java-sdk-kinesisvideo
+netty-codec-http
+netty-common
+jctools-core
+netty-buffer
+netty-transport
+netty-codec
+netty-handler
+netty-resolver
+aws-java-sdk-appsync
+aws-java-sdk-guardduty
+aws-java-sdk-mq
+aws-java-sdk-mediaconvert
+aws-java-sdk-mediastore
+aws-java-sdk-mediastoredata
+aws-java-sdk-medialive
+aws-java-sdk-mediapackage
+aws-java-sdk-costexplorer
+aws-java-sdk-pricing
+aws-java-sdk-mobile
+aws-java-sdk-cloudhsmv2
+aws-java-sdk-glue
+aws-java-sdk-migrationhub
+aws-java-sdk-dax
+aws-java-sdk-greengrass
+aws-java-sdk-athena
+aws-java-sdk-marketplaceentitlement
+aws-java-sdk-codestar
+aws-java-sdk-lexmodelbuilding
+aws-java-sdk-resourcegroupstaggingapi
+aws-java-sdk-pinpoint
+aws-java-sdk-xray
+aws-java-sdk-opsworkscm
+aws-java-sdk-support
+aws-java-sdk-simpledb
+aws-java-sdk-servicecatalog
+aws-java-sdk-servermigration
+aws-java-sdk-simpleworkflow
+aws-java-sdk-storagegateway
+aws-java-sdk-route53
+aws-java-sdk-s3
+aws-java-sdk-importexport
+aws-java-sdk-sts
+aws-java-sdk-sqs
+aws-java-sdk-rds
+aws-java-sdk-redshift
+aws-java-sdk-elasticbeanstalk
+aws-java-sdk-glacier
+aws-java-sdk-iam
+aws-java-sdk-datapipeline
+aws-java-sdk-elasticloadbalancing
+aws-java-sdk-elasticloadbalancingv2
+aws-java-sdk-emr
+aws-java-sdk-elasticache
+aws-java-sdk-elastictranscoder
+aws-java-sdk-ec2
+aws-java-sdk-dynamodb
+aws-java-sdk-sns
+aws-java-sdk-budgets
+aws-java-sdk-cloudtrail
+aws-java-sdk-cloudwatch
+aws-java-sdk-logs
+aws-java-sdk-events
+aws-java-sdk-cognitoidentity
+aws-java-sdk-cognitosync
+aws-java-sdk-directconnect
+aws-java-sdk-cloudformation
+aws-java-sdk-cloudfront
+aws-java-sdk-clouddirectory
+aws-java-sdk-kinesis
+aws-java-sdk-opsworks
+aws-java-sdk-ses
+aws-java-sdk-autoscaling
+aws-java-sdk-cloudsearch
+aws-java-sdk-cloudwatchmetrics
+aws-java-sdk-codedeploy
+aws-java-sdk-codepipeline
+aws-java-sdk-kms
+aws-java-sdk-config
+aws-java-sdk-lambda
+aws-java-sdk-ecs
+aws-java-sdk-ecr
+aws-java-sdk-cloudhsm
+aws-java-sdk-ssm
+aws-java-sdk-workspaces
+aws-java-sdk-machinelearning
+aws-java-sdk-directory
+aws-java-sdk-efs
+aws-java-sdk-codecommit
+aws-java-sdk-devicefarm
+aws-java-sdk-elasticsearch
+aws-java-sdk-waf
+aws-java-sdk-marketplacecommerceanalytics
+aws-java-sdk-inspector
+aws-java-sdk-iot
+aws-java-sdk-api-gateway
+aws-java-sdk-acm
+aws-java-sdk-gamelift
+aws-java-sdk-dms
+aws-java-sdk-marketplacemeteringservice
+aws-java-sdk-cognitoidp
+aws-java-sdk-discovery
+aws-java-sdk-applicationautoscaling
+aws-java-sdk-snowball
+aws-java-sdk-rekognition
+aws-java-sdk-polly
+aws-java-sdk-lightsail
+aws-java-sdk-stepfunctions
+aws-java-sdk-health
+aws-java-sdk-costandusagereport
+aws-java-sdk-codebuild
+aws-java-sdk-appstream
+aws-java-sdk-shield
+aws-java-sdk-batch
+aws-java-sdk-lex
+aws-java-sdk-mechanicalturkrequester
+aws-java-sdk-organizations
+aws-java-sdk-workdocs
+aws-java-sdk-core
+commons-logging
+commons-codec
+httpclient
+httpcore
+ion-java
+jackson-databind
+jackson-annotations
+jackson-core
+jackson-dataformat-cbor
+joda-time
+aws-java-sdk-models
+aws-java-sdk-swf-libraries:1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+4.1.61.Final
+4.1.61.Final
+3.1.0
+4.1.61.Final
+4.1.61.Final
+4.1.61.Final
+4.1.61.Final
+4.1.61.Final
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.11.1026
+1.1.3
+1.15
+4.5.13
+4.4.13
+1.0.2
+2.6.7.4
+2.6.0
+2.6.7
+2.6.7
+2.8.1
+1.11.1026
+1.11.22"
+
+//  hadoop/tools/lib/org.jacoco.agent-0.8.5-runtime.jar -->
+implementation "org.jacoco
+org.jacoco:org.jacoco.agent.rt
+org.jacoco.core:0.8.5
+0.8.5"
+
+//  hadoop/tools/lib/hadoop-distcp-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-distcp:3.3.3"
+
+//  hadoop/tools/lib/hadoop-archive-logs-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-archive-logs:3.3.3"
+
+//  hadoop/tools/lib/lz4-java-1.7.1.jar -->
+// Found info on search.maven.org for hadoop/tools/lib/lz4-java-1.7.1.jar --> implementation "org.lz4:lz4-java:1.7.1"
+//  hadoop/tools/lib/hadoop-gridmix-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-gridmix:3.3.3"
+
+//  hadoop/tools/lib/hadoop-rumen-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-rumen:3.3.3"
+
+//  hadoop/tools/lib/hadoop-azure-datalake-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-azure-datalake:3.3.3"
+
+//  hadoop/tools/lib/hadoop-dynamometer-workload-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-dynamometer-workload:3.3.3"
+
+//  hadoop/tools/lib/hadoop-archives-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-archives:3.3.3"
+
+//  hadoop/tools/lib/azure-storage-7.0.1.jar -->
+implementation "com.microsoft.azure:azure-storage:7.0.1"
+
+//  hadoop/tools/lib/hamcrest-core-1.3.jar -->
+// Found info on search.maven.org for hadoop/tools/lib/hamcrest-core-1.3.jar --> implementation "org.hamcrest:hamcrest-core:1.3"
+//  hadoop/tools/lib/hadoop-streaming-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-streaming:3.3.3"
+
+//  hadoop/tools/lib/hadoop-azure-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-azure:3.3.3"
+
+//  hadoop/tools/lib/hadoop-datajoin-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-datajoin:3.3.3"
+
+//  hadoop/tools/lib/hadoop-sls-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-sls:3.3.3"
+
+//  hadoop/tools/lib/hadoop-openstack-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-openstack:3.3.3"
+
+//  hadoop/tools/lib/opentracing-util-0.33.0.jar -->
+implementation "io.opentracing:opentracing-util:0.33.0"
+
+//  hadoop/tools/lib/aliyun-java-sdk-core-4.5.10.jar -->
+implementation "com.aliyun:aliyun-java-sdk-core:4.5.10"
+
+//  hadoop/tools/lib/hadoop-minicluster-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-minicluster:3.3.3"
+
+//  hadoop/tools/lib/hadoop-client-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-client:3.3.3"
+
+//  hadoop/tools/lib/zstd-jni-1.4.9-1.jar -->
+// Found info on search.maven.org for hadoop/tools/lib/zstd-jni-1.4.9-1.jar --> implementation "com.github.luben:zstd-jni:1.4.9-1"
+//  hadoop/tools/lib/jdom2-2.0.6.jar -->
+// Found info on search.maven.org for hadoop/tools/lib/jdom2-2.0.6.jar --> implementation "org.jdom:jdom2:2.0.6"
+//  hadoop/tools/lib/hadoop-kafka-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-kafka:3.3.3"
+
+//  hadoop/tools/lib/hadoop-resourceestimator-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-resourceestimator:3.3.3"
+
+//  hadoop/tools/lib/ojalgo-43.0.jar -->
+implementation "org.ojalgo:ojalgo:43.0"
+
+//  hadoop/tools/sources/hadoop-datajoin-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-datajoin-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-datajoin:3.3.3"
+//  hadoop/tools/sources/hadoop-sls-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-sls-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-sls:3.3.3"
+//  hadoop/tools/sources/hadoop-extras-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-extras-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-extras:3.3.3"
+//  hadoop/tools/sources/hadoop-rumen-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-rumen-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-rumen:3.3.3"
+//  hadoop/tools/sources/hadoop-dynamometer-blockgen-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-dynamometer-blockgen-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-dynamometer-blockgen:3.3.3"
+//  hadoop/tools/sources/hadoop-datajoin-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-datajoin-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-datajoin:3.3.3"
+//  hadoop/tools/sources/hadoop-distcp-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-distcp-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-distcp:3.3.3"
+//  hadoop/tools/sources/hadoop-gridmix-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-gridmix-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-gridmix:3.3.3"
+//  hadoop/tools/sources/hadoop-streaming-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-streaming-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-streaming:3.3.3"
+//  hadoop/tools/sources/hadoop-gridmix-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-gridmix-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-gridmix:3.3.3"
+//  hadoop/tools/sources/hadoop-resourceestimator-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-resourceestimator-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-resourceestimator:3.3.3"
+//  hadoop/tools/sources/hadoop-archive-logs-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-archive-logs-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-archive-logs:3.3.3"
+//  hadoop/tools/sources/hadoop-sls-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-sls-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-sls:3.3.3"
+//  hadoop/tools/sources/hadoop-archives-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-archives-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-archives:3.3.3"
+//  hadoop/tools/sources/hadoop-dynamometer-workload-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-dynamometer-workload-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-dynamometer-workload:3.3.3"
+//  hadoop/tools/sources/hadoop-dynamometer-infra-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-dynamometer-infra-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-dynamometer-infra:3.3.3"
+//  hadoop/tools/sources/hadoop-rumen-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-rumen-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-rumen:3.3.3"
+//  hadoop/tools/sources/hadoop-streaming-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-streaming-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-streaming:3.3.3"
+//  hadoop/tools/sources/hadoop-dynamometer-infra-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-dynamometer-infra-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-dynamometer-infra:3.3.3"
+//  hadoop/tools/sources/hadoop-dynamometer-workload-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-dynamometer-workload-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-dynamometer-workload:3.3.3"
+//  hadoop/tools/sources/hadoop-archive-logs-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-archive-logs-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-archive-logs:3.3.3"
+//  hadoop/tools/sources/hadoop-archives-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-archives-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-archives:3.3.3"
+//  hadoop/tools/sources/hadoop-resourceestimator-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-resourceestimator-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-resourceestimator:3.3.3"
+//  hadoop/tools/sources/hadoop-dynamometer-blockgen-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-dynamometer-blockgen-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-dynamometer-blockgen:3.3.3"
+//  hadoop/tools/sources/hadoop-extras-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-extras-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-extras:3.3.3"
+//  hadoop/tools/sources/hadoop-distcp-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/tools/sources/hadoop-distcp-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-distcp:3.3.3"
+//  hadoop/yarn/hadoop-yarn-services-api-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-services-api:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-client-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-client:3.3.3"
+
+//  hadoop/yarn/csi/hadoop-yarn-csi-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-csi:3.3.3"
+
+//  hadoop/yarn/csi/lib/grpc-netty-1.26.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/grpc-netty-1.26.0.jar --> implementation "io.grpc:grpc-netty:1.26.0"
+//  hadoop/yarn/csi/lib/annotations-4.1.1.4.jar -->
+implementation "com.google.android:annotations:4.1.1.4"
+
+//  hadoop/yarn/csi/lib/grpc-api-1.26.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/grpc-api-1.26.0.jar --> implementation "io.grpc:grpc-api:1.26.0"
+//  hadoop/yarn/csi/lib/grpc-stub-1.26.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/grpc-stub-1.26.0.jar --> implementation "io.grpc:grpc-stub:1.26.0"
+//  hadoop/yarn/csi/lib/protobuf-java-3.6.1.jar -->
+implementation "com.google.protobuf:protobuf-java:3.6.1"
+
+//  hadoop/yarn/csi/lib/perfmark-api-0.19.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/perfmark-api-0.19.0.jar --> implementation "io.perfmark:perfmark-api:0.19.0"
+//  hadoop/yarn/csi/lib/grpc-context-1.26.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/grpc-context-1.26.0.jar --> implementation "io.grpc:grpc-context:1.26.0"
+//  hadoop/yarn/csi/lib/javax.annotation-api-1.3.2.jar -->
+implementation "javax.annotation:javax.annotation-api:1.3.2"
+
+//  hadoop/yarn/csi/lib/error_prone_annotations-2.3.3.jar -->
+implementation "com.google.errorprone:error_prone_annotations:2.3.3"
+
+//  hadoop/yarn/csi/lib/opencensus-contrib-grpc-metrics-0.24.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/opencensus-contrib-grpc-metrics-0.24.0.jar --> implementation "io.opencensus:opencensus-contrib-grpc-metrics:0.24.0"
+//  hadoop/yarn/csi/lib/grpc-protobuf-lite-1.26.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/grpc-protobuf-lite-1.26.0.jar --> implementation "io.grpc:grpc-protobuf-lite:1.26.0"
+//  hadoop/yarn/csi/lib/grpc-protobuf-1.26.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/grpc-protobuf-1.26.0.jar --> implementation "io.grpc:grpc-protobuf:1.26.0"
+//  hadoop/yarn/csi/lib/opencensus-api-0.24.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/opencensus-api-0.24.0.jar --> implementation "io.opencensus:opencensus-api:0.24.0"
+//  hadoop/yarn/csi/lib/proto-google-common-protos-1.12.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/proto-google-common-protos-1.12.0.jar --> implementation "com.google.api.grpc:proto-google-common-protos:1.12.0"
+//  hadoop/yarn/csi/lib/grpc-core-1.26.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/csi/lib/grpc-core-1.26.0.jar --> implementation "io.grpc:grpc-core:1.26.0"
+//  hadoop/yarn/hadoop-yarn-server-common-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-common:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-resourcemanager-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-resourcemanager:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-services-core-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-services-core:3.3.3"
+
+//  hadoop/yarn/test/hadoop-yarn-server-tests-3.3.3-tests.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-tests:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-applications-mawo-core-3.3.3.jar -->
+implementation "org.apache.hadoop.applications.mawo:hadoop-yarn-applications-mawo-core:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-router-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-router:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-nodemanager-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-nodemanager:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-web-proxy-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-web-proxy:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-common-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-common:3.3.3"
+
+//  hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-documentstore-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-timelineservice-documentstore:3.3.3"
+
+//  hadoop/yarn/timelineservice/test/hadoop-yarn-server-timelineservice-hbase-tests-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-tests:3.3.3"
+
+//  hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-timelineservice:3.3.3"
+
+//  hadoop/yarn/timelineservice/lib/azure-cosmosdb-gateway-2.4.5.jar -->
+implementation "com.microsoft.azure:azure-cosmosdb-gateway:2.4.5"
+
+//  hadoop/yarn/timelineservice/lib/java-uuid-generator-3.1.4.jar -->
+implementation "com.fasterxml.uuid:java-uuid-generator:3.1.4"
+
+//  hadoop/yarn/timelineservice/lib/commons-csv-1.0.jar -->
+implementation "org.apache.commons:commons-csv:1.0"
+
+//  hadoop/yarn/timelineservice/lib/rxjava-extras-0.8.0.17.jar -->
+implementation "com.github.davidmoten:rxjava-extras:0.8.0.17"
+
+//  hadoop/yarn/timelineservice/lib/azure-cosmosdb-commons-2.4.5.jar -->
+implementation "com.microsoft.azure:azure-cosmosdb-commons:2.4.5"
+
+//  hadoop/yarn/timelineservice/lib/hbase-protocol-1.4.8.jar -->
+implementation "org.apache.hbase:hbase-protocol:1.4.8"
+
+//  hadoop/yarn/timelineservice/lib/commons-validator-1.6.jar -->
+implementation "commons-validator:commons-validator:1.6"
+
+//  hadoop/yarn/timelineservice/lib/commons-collections4-4.2.jar -->
+implementation "org.apache.commons:commons-collections4:4.2"
+
+//  hadoop/yarn/timelineservice/lib/rxjava-1.3.8.jar -->
+// Found info on search.maven.org for hadoop/yarn/timelineservice/lib/rxjava-1.3.8.jar --> implementation "io.reactivex:rxjava:1.3.8"
+//  hadoop/yarn/timelineservice/lib/joni-2.1.2.jar -->
+implementation "org.jruby.joni:joni:2.1.2"
+
+//  hadoop/yarn/timelineservice/lib/rxnetty-0.4.20.jar -->
+// Found info on search.maven.org for hadoop/yarn/timelineservice/lib/rxnetty-0.4.20.jar --> implementation "io.reactivex:rxnetty:0.4.20"
+//  hadoop/yarn/timelineservice/lib/metrics-core-2.2.0.jar -->
+implementation "com.yammer.metrics:metrics-core:2.2.0"
+
+//  hadoop/yarn/timelineservice/lib/jcodings-1.0.13.jar -->
+implementation "org.jruby.jcodings:jcodings:1.0.13"
+
+//  hadoop/yarn/timelineservice/lib/azure-cosmosdb-2.4.5.jar -->
+implementation "com.microsoft.azure:azure-cosmosdb:2.4.5"
+
+//  hadoop/yarn/timelineservice/lib/azure-cosmosdb-direct-2.4.5.jar -->
+implementation "com.microsoft.azure:azure-cosmosdb-direct:2.4.5"
+
+//  hadoop/yarn/timelineservice/lib/hbase-annotations-1.4.8.jar -->
+implementation "org.apache.hbase:hbase-annotations:1.4.8"
+
+//  hadoop/yarn/timelineservice/lib/hbase-client-1.4.8.jar -->
+implementation "org.apache.hbase:hbase-client:1.4.8"
+
+//  hadoop/yarn/timelineservice/lib/rxjava-string-1.1.1.jar -->
+// Found info on search.maven.org for hadoop/yarn/timelineservice/lib/rxjava-string-1.1.1.jar --> implementation "io.reactivex:rxjava-string:1.1.1"
+//  hadoop/yarn/timelineservice/lib/commons-lang-2.6.jar -->
+implementation "commons-lang:commons-lang:2.6"
+
+//  hadoop/yarn/timelineservice/lib/hbase-common-1.4.8.jar -->
+implementation "org.apache.hbase:hbase-common:1.4.8"
+
+//  hadoop/yarn/timelineservice/lib/htrace-core-3.1.0-incubating.jar -->
+implementation "org.apache.htrace
+commons-logging
+com.fasterxml.jackson.core
+com.fasterxml.jackson.core
+com.fasterxml.jackson.core:htrace-core
+commons-logging
+jackson-core
+jackson-databind
+jackson-annotations:3.1.0-incubating
+1.1.1
+2.4.0
+2.4.0
+2.4.0"
+
+//  hadoop/yarn/timelineservice/lib/commons-digester-1.8.1.jar -->
+implementation "commons-digester:commons-digester:1.8.1"
+
+//  hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-hbase-common-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-common:3.3.3"
+
+//  hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-hbase-client-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-client:3.3.3"
+
+//  hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-hbase-coprocessor-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-timelineservice-hbase-common:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-api-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-api:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-tests-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-tests:3.3.3"
+
+//  hadoop/yarn/lib/javax.websocket-api-1.0.jar -->
+implementation "javax.websocket:javax.websocket-api:1.0"
+
+//  hadoop/yarn/lib/jakarta.xml.bind-api-2.3.3.jar -->
+implementation "jakarta.xml.bind:jakarta.xml.bind-api:2.3.3"
+
+//  hadoop/yarn/lib/jersey-guice-1.19.jar -->
+implementation "com.sun.jersey.contribs:jersey-guice:1.19"
+
+//  hadoop/yarn/lib/aopalliance-1.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/aopalliance-1.0.jar --> implementation "aopalliance:aopalliance:1.0"
+//  hadoop/yarn/lib/java-util-1.9.0.jar -->
+implementation "com.cedarsoftware:java-util:1.9.0"
+
+//  hadoop/yarn/lib/asm-analysis-9.1.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/asm-analysis-9.1.jar --> implementation "org.ow2.asm:asm-analysis:9.1"
+//  hadoop/yarn/lib/jackson-jaxrs-json-provider-2.13.2.jar -->
+implementation "com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.13.2"
+
+//  hadoop/yarn/lib/websocket-api-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty.websocket:websocket-api:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/websocket-servlet-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty.websocket:websocket-servlet:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/jersey-client-1.19.jar -->
+implementation "com.sun.jersey:jersey-client:1.19"
+
+//  hadoop/yarn/lib/geronimo-jcache_1.0_spec-1.0-alpha-1.jar -->
+implementation "org.apache.geronimo.specs:geronimo-jcache_1.0_spec:1.0-alpha-1"
+
+//  hadoop/yarn/lib/objenesis-2.6.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/objenesis-2.6.jar --> implementation "org.objenesis:objenesis:2.6"
+//  hadoop/yarn/lib/asm-tree-9.1.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/asm-tree-9.1.jar --> implementation "org.ow2.asm:asm-tree:9.1"
+//  hadoop/yarn/lib/jline-3.9.0.jar -->
+implementation "org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline:jline-builtins
+jline-terminal-jansi
+jline-remote-telnet
+jline-style
+jline-reader
+jline
+jline-terminal-jna
+jline-terminal
+jline-remote-ssh:3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0"
+
+//  hadoop/yarn/lib/websocket-client-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty.websocket:websocket-client:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/jetty-annotations-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-annotations:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/jackson-jaxrs-base-2.13.2.jar -->
+implementation "com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.13.2"
+
+//  hadoop/yarn/lib/fst-2.50.jar -->
+implementation "de.ruedigermoeller:fst:2.50"
+
+//  hadoop/yarn/lib/asm-commons-9.1.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/asm-commons-9.1.jar --> implementation "org.ow2.asm:asm-commons:9.1"
+//  hadoop/yarn/lib/guice-servlet-4.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/guice-servlet-4.0.jar --> implementation "com.google.inject.extensions:guice-servlet:4.0"
+//  hadoop/yarn/lib/websocket-common-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty.websocket:websocket-common:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/snakeyaml-1.26.jar -->
+implementation "org.yaml:snakeyaml:1.26"
+
+//  hadoop/yarn/lib/mssql-jdbc-6.2.1.jre7.jar -->
+implementation "com.microsoft.sqlserver:mssql-jdbc:6.2.1.jre7"
+
+//  hadoop/yarn/lib/jetty-plus-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-plus:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/metrics-core-3.2.4.jar -->
+implementation "io.dropwizard.metrics:metrics-core:3.2.4"
+
+//  hadoop/yarn/lib/javax-websocket-server-impl-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/jackson-module-jaxb-annotations-2.13.2.jar -->
+implementation "com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.13.2"
+
+//  hadoop/yarn/lib/jetty-jndi-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-jndi:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/javax.ws.rs-api-2.1.1.jar -->
+implementation "javax.ws.rs:javax.ws.rs-api:2.1.1"
+
+//  hadoop/yarn/lib/javax.websocket-client-api-1.0.jar -->
+implementation "javax.websocket:javax.websocket-client-api:1.0"
+
+//  hadoop/yarn/lib/ehcache-3.3.1.jar -->
+implementation "org.ehcache
+org.terracotta
+org.terracotta:sizeof
+offheap-store
+statistics:0.3.0
+2.3.2
+1.4.3"
+
+//  hadoop/yarn/lib/javax-websocket-client-impl-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty.websocket:javax-websocket-client-impl:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/bcprov-jdk15on-1.60.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/bcprov-jdk15on-1.60.jar --> implementation "org.bouncycastle:bcprov-jdk15on:1.60"
+//  hadoop/yarn/lib/HikariCP-java7-2.4.12.jar -->
+implementation "com.zaxxer:HikariCP-java7:2.4.12"
+
+//  hadoop/yarn/lib/jna-5.2.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/jna-5.2.0.jar --> implementation "net.java.dev.jna:jna:5.2.0"
+//  hadoop/yarn/lib/json-io-2.5.1.jar -->
+implementation "com.cedarsoftware:json-io:2.5.1"
+
+//  hadoop/yarn/lib/jetty-client-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-client:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/guice-4.0.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/guice-4.0.jar --> implementation "com.google.inject:guice:4.0"
+//  hadoop/yarn/lib/websocket-server-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty.websocket:websocket-server:9.4.43.v20210629"
+
+//  hadoop/yarn/lib/javax.inject-1.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/javax.inject-1.jar --> implementation "javax.inject:javax.inject:1"
+//  hadoop/yarn/lib/bcpkix-jdk15on-1.60.jar -->
+// Found info on search.maven.org for hadoop/yarn/lib/bcpkix-jdk15on-1.60.jar --> implementation "org.bouncycastle:bcpkix-jdk15on:1.60"
+//  hadoop/yarn/lib/swagger-annotations-1.5.4.jar -->
+implementation "io.swagger:swagger-annotations:1.5.4"
+
+//  hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-applicationhistoryservice:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-tests-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-tests-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-tests:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-common-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-common-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-common:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-services-api-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-services-api-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-services-api:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-services-core-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-services-core-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-services-core:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-client-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-client-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-client:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-applications-distributedshell:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-tests-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-tests-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-tests:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-applications-unmanaged-am-launcher:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-client-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-client-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-client:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-api-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-api-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-api:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-common-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-common-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-common:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-common-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-common-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-common:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-applications-unmanaged-am-launcher:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-services-api-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-services-api-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-services-api:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-web-proxy-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-web-proxy-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-web-proxy:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-resourcemanager:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-services-core-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-services-core-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-services-core:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-nodemanager-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-nodemanager-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-nodemanager:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-web-proxy-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-web-proxy-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-web-proxy:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-resourcemanager:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-api-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-api-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-api:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-applications-distributedshell:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-common-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-common-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-common:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-nodemanager-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-nodemanager-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-nodemanager:3.3.3"
+//  hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-yarn-server-applicationhistoryservice:3.3.3"
+//  hadoop/yarn/hadoop-yarn-applications-unmanaged-am-launcher-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-applications-unmanaged-am-launcher:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-applicationhistoryservice-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-applicationhistoryservice:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-applications-distributedshell-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-applications-distributedshell:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-timeline-pluginstorage-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-timeline-pluginstorage:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-registry-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-registry:3.3.3"
+
+//  hadoop/yarn/hadoop-yarn-server-sharedcachemanager-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-yarn-server-sharedcachemanager:3.3.3"
+
+//  hadoop/common/hadoop-nfs-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-nfs:3.3.3"
+
+//  hadoop/common/hadoop-common-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-common:3.3.3"
+
+//  hadoop/common/lib/jaxb-impl-2.2.3-1.jar -->
+//  hadoop/common/lib/curator-framework-4.2.0.jar -->
+implementation "org.apache.curator:curator-framework:4.2.0"
+
+//  hadoop/common/lib/commons-io-2.8.0.jar -->
+implementation "commons-io:commons-io:2.8.0"
+
+//  hadoop/common/lib/jetty-util-ajax-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-util-ajax:9.4.43.v20210629"
+
+//  hadoop/common/lib/slf4j-api-1.7.36.jar -->
+implementation "org.slf4j:slf4j-api:1.7.36"
+
+//  hadoop/common/lib/hadoop-auth-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-auth:3.3.3"
+
+//  hadoop/common/lib/hadoop-annotations-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-annotations:3.3.3"
+
+//  hadoop/common/lib/kerby-xdr-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-xdr:1.0.1"
+
+//  hadoop/common/lib/failureaccess-1.0.jar -->
+implementation "com.google.guava:failureaccess:1.0"
+
+//  hadoop/common/lib/checker-qual-2.5.2.jar -->
+// Found info on search.maven.org for hadoop/common/lib/checker-qual-2.5.2.jar --> implementation "org.checkerframework:checker-qual:2.5.2"
+//  hadoop/common/lib/slf4j-reload4j-1.7.36.jar -->
+implementation "org.slf4j:slf4j-reload4j:1.7.36"
+
+//  hadoop/common/lib/jetty-webapp-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-webapp:9.4.43.v20210629"
+
+//  hadoop/common/lib/curator-client-4.2.0.jar -->
+implementation "org.apache.curator
+com.google.guava
+com.google.guava:curator-client
+failureaccess
+listenablefuture:4.2.0
+1.0.1
+1.0"
+
+//  hadoop/common/lib/httpcore-4.4.13.jar -->
+implementation "org.apache.httpcomponents:httpcore:4.4.13"
+
+//  hadoop/common/lib/snappy-java-1.1.8.2.jar -->
+// Found info on search.maven.org for hadoop/common/lib/snappy-java-1.1.8.2.jar --> implementation "org.xerial.snappy:snappy-java:1.1.8.2"
+//  hadoop/common/lib/jackson-jaxrs-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/common/lib/jackson-jaxrs-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-jaxrs:1.9.13"
+//  hadoop/common/lib/commons-logging-1.1.3.jar -->
+implementation "commons-logging:commons-logging:1.1.3"
+
+//  hadoop/common/lib/kerby-pkix-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-pkix:1.0.1"
+
+//  hadoop/common/lib/woodstox-core-5.3.0.jar -->
+implementation "com.fasterxml.woodstox:woodstox-core:5.3.0"
+
+//  hadoop/common/lib/avro-1.7.7.jar -->
+implementation "org.apache.avro:avro:1.7.7"
+
+//  hadoop/common/lib/dnsjava-2.1.7.jar -->
+implementation "dnsjava:dnsjava:2.1.7"
+
+//  hadoop/common/lib/jetty-io-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-io:9.4.43.v20210629"
+
+//  hadoop/common/lib/javax.servlet-api-3.1.0.jar -->
+implementation "javax.servlet:javax.servlet-api:3.1.0"
+
+//  hadoop/common/lib/kerb-server-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-server:1.0.1"
+
+//  hadoop/common/lib/hadoop-shaded-guava-1.1.1.jar -->
+implementation "org.apache.hadoop.thirdparty
+com.google.guava
+com.google.guava
+com.google.guava
+com.google.errorprone
+com.google.j2objc:hadoop-shaded-guava
+guava
+failureaccess
+listenablefuture
+error_prone_annotations
+j2objc-annotations:1.1.1
+30.1.1-jre
+1.0.1
+9999.0-empty-to-avoid-conflict-with-guava
+2.5.1
+1.3"
+
+//  hadoop/common/lib/commons-cli-1.2.jar -->
+implementation "commons-cli:commons-cli:1.2"
+
+//  hadoop/common/lib/guava-27.0-jre.jar -->
+implementation "com.google.guava:guava:27.0-jre"
+
+//  hadoop/common/lib/protobuf-java-2.5.0.jar -->
+implementation "com.google.protobuf:protobuf-java:2.5.0"
+
+//  hadoop/common/lib/jcip-annotations-1.0-1.jar -->
+implementation "com.github.stephenc.jcip:jcip-annotations:1.0-1"
+
+//  hadoop/common/lib/kerby-asn1-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-asn1:1.0.1"
+
+//  hadoop/common/lib/jsr311-api-1.1.1.jar -->
+implementation "javax.ws.rs:jsr311-api:1.1.1"
+
+//  hadoop/common/lib/stax2-api-4.2.1.jar -->
+implementation "org.codehaus.woodstox:stax2-api:4.2.1"
+
+//  hadoop/common/lib/jackson-xc-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/common/lib/jackson-xc-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-xc:1.9.13"
+//  hadoop/common/lib/kerb-identity-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-identity:1.0.1"
+
+//  hadoop/common/lib/jackson-core-2.13.2.jar -->
+implementation "com.fasterxml.jackson.core:jackson-core:2.13.2"
+
+//  hadoop/common/lib/kerby-config-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-config:1.0.1"
+
+//  hadoop/common/lib/kerb-util-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-util:1.0.1"
+
+//  hadoop/common/lib/jetty-server-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-server:9.4.43.v20210629"
+
+//  hadoop/common/lib/jetty-util-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-util:9.4.43.v20210629"
+
+//  hadoop/common/lib/jersey-json-1.19.jar -->
+implementation "com.sun.jersey:jersey-json:1.19"
+
+//  hadoop/common/lib/jersey-servlet-1.19.jar -->
+implementation "com.sun.jersey:jersey-servlet:1.19"
+
+//  hadoop/common/lib/jackson-databind-2.13.2.2.jar -->
+implementation "com.fasterxml.jackson.core:jackson-databind:2.13.2.2"
+
+//  hadoop/common/lib/zookeeper-jute-3.5.6.jar -->
+implementation "org.apache.zookeeper:zookeeper-jute:3.5.6"
+
+//  hadoop/common/lib/jaxb-api-2.2.11.jar -->
+implementation "javax.xml.bind:jaxb-api:2.2.11"
+
+//  hadoop/common/lib/commons-configuration2-2.1.1.jar -->
+implementation "org.apache.commons:commons-configuration2:2.1.1"
+
+//  hadoop/common/lib/jakarta.activation-api-1.2.1.jar -->
+implementation "jakarta.activation:jakarta.activation-api:1.2.1"
+
+//  hadoop/common/lib/jackson-core-asl-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/common/lib/jackson-core-asl-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-core-asl:1.9.13"
+//  hadoop/common/lib/jetty-servlet-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-servlet:9.4.43.v20210629"
+
+//  hadoop/common/lib/commons-compress-1.21.jar -->
+implementation "org.apache.commons:commons-compress:1.21"
+
+//  hadoop/common/lib/curator-recipes-4.2.0.jar -->
+implementation "org.apache.curator:curator-recipes:4.2.0"
+
+//  hadoop/common/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar -->
+implementation "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"
+
+//  hadoop/common/lib/metrics-core-3.2.4.jar -->
+implementation "io.dropwizard.metrics:metrics-core:3.2.4"
+
+//  hadoop/common/lib/jsp-api-2.1.jar -->
+// Found info on search.maven.org for hadoop/common/lib/jsp-api-2.1.jar --> implementation "javax.servlet.jsp:jsp-api:2.1"
+//  hadoop/common/lib/kerb-crypto-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-crypto:1.0.1"
+
+//  hadoop/common/lib/asm-5.0.4.jar -->
+// Found info on search.maven.org for hadoop/common/lib/asm-5.0.4.jar --> implementation "org.ow2.asm:asm:5.0.4"
+//  hadoop/common/lib/kerb-admin-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-admin:1.0.1"
+
+//  hadoop/common/lib/audience-annotations-0.5.0.jar -->
+implementation "org.apache.yetus:audience-annotations:0.5.0"
+
+//  hadoop/common/lib/j2objc-annotations-1.1.jar -->
+implementation "com.google.j2objc:j2objc-annotations:1.1"
+
+//  hadoop/common/lib/jul-to-slf4j-1.7.36.jar -->
+implementation "org.slf4j:jul-to-slf4j:1.7.36"
+
+//  hadoop/common/lib/paranamer-2.3.jar -->
+implementation "com.thoughtworks.paranamer:paranamer:2.3"
+
+//  hadoop/common/lib/kerb-client-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-client:1.0.1"
+
+//  hadoop/common/lib/commons-collections-3.2.2.jar -->
+implementation "commons-collections:commons-collections:3.2.2"
+
+//  hadoop/common/lib/commons-codec-1.15.jar -->
+implementation "commons-codec:commons-codec:1.15"
+
+//  hadoop/common/lib/jettison-1.1.jar -->
+implementation "org.codehaus.jettison:jettison:1.1"
+
+//  hadoop/common/lib/jackson-annotations-2.13.2.jar -->
+implementation "com.fasterxml.jackson.core:jackson-annotations:2.13.2"
+
+//  hadoop/common/lib/netty-3.10.6.Final.jar -->
+implementation "io.netty:netty:3.10.6.Final"
+
+//  hadoop/common/lib/reload4j-1.2.18.3.jar -->
+implementation "ch.qos.reload4j:reload4j:1.2.18.3"
+
+//  hadoop/common/lib/token-provider-1.0.1.jar -->
+implementation "org.apache.kerby:token-provider:1.0.1"
+
+//  hadoop/common/lib/accessors-smart-2.4.7.jar -->
+implementation "net.minidev:accessors-smart:2.4.7"
+
+//  hadoop/common/lib/jersey-core-1.19.jar -->
+implementation "com.sun.jersey:jersey-core:1.19"
+
+//  hadoop/common/lib/json-smart-2.4.7.jar -->
+implementation "net.minidev:json-smart:2.4.7"
+
+//  hadoop/common/lib/commons-beanutils-1.9.4.jar -->
+implementation "commons-beanutils:commons-beanutils:1.9.4"
+
+//  hadoop/common/lib/kerb-common-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-common:1.0.1"
+
+//  hadoop/common/lib/commons-text-1.4.jar -->
+implementation "org.apache.commons:commons-text:1.4"
+
+//  hadoop/common/lib/kerb-simplekdc-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-simplekdc:1.0.1"
+
+//  hadoop/common/lib/jersey-server-1.19.jar -->
+implementation "com.sun.jersey:jersey-server:1.19"
+
+//  hadoop/common/lib/jsch-0.1.55.jar -->
+implementation "com.jcraft:jsch:0.1.55"
+
+//  hadoop/common/lib/jetty-http-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-http:9.4.43.v20210629"
+
+//  hadoop/common/lib/re2j-1.1.jar -->
+implementation "com.google.re2j:re2j:1.1"
+
+//  hadoop/common/lib/commons-lang3-3.12.0.jar -->
+implementation "org.apache.commons:commons-lang3:3.12.0"
+
+//  hadoop/common/lib/kerb-core-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-core:1.0.1"
+
+//  hadoop/common/lib/nimbus-jose-jwt-9.8.1.jar -->
+implementation "com.nimbusds
+net.minidev:nimbus-jose-jwt
+json-smart:9.8.1
+1.3.2"
+
+//  hadoop/common/lib/httpclient-4.5.13.jar -->
+implementation "org.apache.httpcomponents:httpclient:4.5.13"
+
+//  hadoop/common/lib/jetty-xml-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-xml:9.4.43.v20210629"
+
+//  hadoop/common/lib/animal-sniffer-annotations-1.17.jar -->
+implementation "org.codehaus.mojo:animal-sniffer-annotations:1.17"
+
+//  hadoop/common/lib/jetty-security-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-security:9.4.43.v20210629"
+
+//  hadoop/common/lib/commons-net-3.6.jar -->
+implementation "commons-net:commons-net:3.6"
+
+//  hadoop/common/lib/kerby-util-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-util:1.0.1"
+
+//  hadoop/common/lib/jsr305-3.0.2.jar -->
+implementation "com.google.code.findbugs:jsr305:3.0.2"
+
+//  hadoop/common/lib/jackson-mapper-asl-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/common/lib/jackson-mapper-asl-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-mapper-asl:1.9.13"
+//  hadoop/common/lib/commons-math3-3.1.1.jar -->
+implementation "org.apache.commons:commons-math3:3.1.1"
+
+//  hadoop/common/lib/commons-daemon-1.0.13.jar -->
+implementation "commons-daemon:commons-daemon:1.0.13"
+
+//  hadoop/common/lib/gson-2.8.9.jar -->
+implementation "com.google.code.gson:gson:2.8.9"
+
+//  hadoop/common/lib/hadoop-shaded-protobuf_3_7-1.1.1.jar -->
+implementation "org.apache.hadoop.thirdparty
+com.google.protobuf:hadoop-shaded-protobuf_3_7
+protobuf-java:1.1.1
+3.7.1"
+
+//  hadoop/common/lib/zookeeper-3.5.6.jar -->
+implementation "org.apache.zookeeper:zookeeper:3.5.6"
+
+//  hadoop/common/sources/hadoop-common-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/common/sources/hadoop-common-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-common:3.3.3"
+//  hadoop/common/sources/hadoop-common-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/common/sources/hadoop-common-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-common:3.3.3"
+//  hadoop/common/hadoop-common-3.3.3-tests.jar -->
+implementation "org.apache.hadoop:hadoop-common:3.3.3"
+
+//  hadoop/common/hadoop-kms-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-kms:3.3.3"
+
+//  hadoop/common/hadoop-registry-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-registry:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-client-3.3.3-tests.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-client:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-native-client-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-native-client:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-rbf-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-rbf:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-rbf-3.3.3-tests.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-rbf:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-client-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-client:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-native-client-3.3.3-tests.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-native-client:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-httpfs-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-httpfs:3.3.3"
+
+//  hadoop/hdfs/hadoop-hdfs-nfs-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs-nfs:3.3.3"
+
+//  hadoop/hdfs/lib/jaxb-impl-2.2.3-1.jar -->
+//  hadoop/hdfs/lib/curator-framework-4.2.0.jar -->
+implementation "org.apache.curator:curator-framework:4.2.0"
+
+//  hadoop/hdfs/lib/commons-io-2.8.0.jar -->
+implementation "commons-io:commons-io:2.8.0"
+
+//  hadoop/hdfs/lib/jetty-util-ajax-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-util-ajax:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/hadoop-auth-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-auth:3.3.3"
+
+//  hadoop/hdfs/lib/hadoop-annotations-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-annotations:3.3.3"
+
+//  hadoop/hdfs/lib/kerby-xdr-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-xdr:1.0.1"
+
+//  hadoop/hdfs/lib/failureaccess-1.0.jar -->
+implementation "com.google.guava:failureaccess:1.0"
+
+//  hadoop/hdfs/lib/checker-qual-2.5.2.jar -->
+// Found info on search.maven.org for hadoop/hdfs/lib/checker-qual-2.5.2.jar --> implementation "org.checkerframework:checker-qual:2.5.2"
+//  hadoop/hdfs/lib/jetty-webapp-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-webapp:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/curator-client-4.2.0.jar -->
+implementation "org.apache.curator
+com.google.guava
+com.google.guava:curator-client
+failureaccess
+listenablefuture:4.2.0
+1.0.1
+1.0"
+
+//  hadoop/hdfs/lib/httpcore-4.4.13.jar -->
+implementation "org.apache.httpcomponents:httpcore:4.4.13"
+
+//  hadoop/hdfs/lib/snappy-java-1.1.8.2.jar -->
+// Found info on search.maven.org for hadoop/hdfs/lib/snappy-java-1.1.8.2.jar --> implementation "org.xerial.snappy:snappy-java:1.1.8.2"
+//  hadoop/hdfs/lib/jackson-jaxrs-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/hdfs/lib/jackson-jaxrs-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-jaxrs:1.9.13"
+//  hadoop/hdfs/lib/commons-logging-1.1.3.jar -->
+implementation "commons-logging:commons-logging:1.1.3"
+
+//  hadoop/hdfs/lib/kerby-pkix-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-pkix:1.0.1"
+
+//  hadoop/hdfs/lib/woodstox-core-5.3.0.jar -->
+implementation "com.fasterxml.woodstox:woodstox-core:5.3.0"
+
+//  hadoop/hdfs/lib/avro-1.7.7.jar -->
+implementation "org.apache.avro:avro:1.7.7"
+
+//  hadoop/hdfs/lib/dnsjava-2.1.7.jar -->
+implementation "dnsjava:dnsjava:2.1.7"
+
+//  hadoop/hdfs/lib/jetty-io-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-io:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/javax.servlet-api-3.1.0.jar -->
+implementation "javax.servlet:javax.servlet-api:3.1.0"
+
+//  hadoop/hdfs/lib/kerb-server-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-server:1.0.1"
+
+//  hadoop/hdfs/lib/hadoop-shaded-guava-1.1.1.jar -->
+implementation "org.apache.hadoop.thirdparty
+com.google.guava
+com.google.guava
+com.google.guava
+com.google.errorprone
+com.google.j2objc:hadoop-shaded-guava
+guava
+failureaccess
+listenablefuture
+error_prone_annotations
+j2objc-annotations:1.1.1
+30.1.1-jre
+1.0.1
+9999.0-empty-to-avoid-conflict-with-guava
+2.5.1
+1.3"
+
+//  hadoop/hdfs/lib/commons-cli-1.2.jar -->
+implementation "commons-cli:commons-cli:1.2"
+
+//  hadoop/hdfs/lib/guava-27.0-jre.jar -->
+implementation "com.google.guava:guava:27.0-jre"
+
+//  hadoop/hdfs/lib/protobuf-java-2.5.0.jar -->
+implementation "com.google.protobuf:protobuf-java:2.5.0"
+
+//  hadoop/hdfs/lib/jcip-annotations-1.0-1.jar -->
+implementation "com.github.stephenc.jcip:jcip-annotations:1.0-1"
+
+//  hadoop/hdfs/lib/kerby-asn1-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-asn1:1.0.1"
+
+//  hadoop/hdfs/lib/jsr311-api-1.1.1.jar -->
+implementation "javax.ws.rs:jsr311-api:1.1.1"
+
+//  hadoop/hdfs/lib/stax2-api-4.2.1.jar -->
+implementation "org.codehaus.woodstox:stax2-api:4.2.1"
+
+//  hadoop/hdfs/lib/jackson-xc-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/hdfs/lib/jackson-xc-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-xc:1.9.13"
+//  hadoop/hdfs/lib/kerb-identity-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-identity:1.0.1"
+
+//  hadoop/hdfs/lib/jackson-core-2.13.2.jar -->
+implementation "com.fasterxml.jackson.core:jackson-core:2.13.2"
+
+//  hadoop/hdfs/lib/netty-all-4.1.68.Final.jar -->
+implementation "io.netty:netty-all:4.1.68.Final"
+
+//  hadoop/hdfs/lib/kerby-config-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-config:1.0.1"
+
+//  hadoop/hdfs/lib/kerb-util-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-util:1.0.1"
+
+//  hadoop/hdfs/lib/jetty-server-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-server:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/okio-1.6.0.jar -->
+implementation "com.squareup.okio:okio:1.6.0"
+
+//  hadoop/hdfs/lib/jetty-util-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-util:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/jersey-json-1.19.jar -->
+implementation "com.sun.jersey:jersey-json:1.19"
+
+//  hadoop/hdfs/lib/jersey-servlet-1.19.jar -->
+implementation "com.sun.jersey:jersey-servlet:1.19"
+
+//  hadoop/hdfs/lib/jackson-databind-2.13.2.2.jar -->
+implementation "com.fasterxml.jackson.core:jackson-databind:2.13.2.2"
+
+//  hadoop/hdfs/lib/zookeeper-jute-3.5.6.jar -->
+implementation "org.apache.zookeeper:zookeeper-jute:3.5.6"
+
+//  hadoop/hdfs/lib/jaxb-api-2.2.11.jar -->
+implementation "javax.xml.bind:jaxb-api:2.2.11"
+
+//  hadoop/hdfs/lib/json-simple-1.1.1.jar -->
+implementation "com.googlecode.json-simple:json-simple:1.1.1"
+
+//  hadoop/hdfs/lib/commons-configuration2-2.1.1.jar -->
+implementation "org.apache.commons:commons-configuration2:2.1.1"
+
+//  hadoop/hdfs/lib/jakarta.activation-api-1.2.1.jar -->
+implementation "jakarta.activation:jakarta.activation-api:1.2.1"
+
+//  hadoop/hdfs/lib/jackson-core-asl-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/hdfs/lib/jackson-core-asl-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-core-asl:1.9.13"
+//  hadoop/hdfs/lib/jetty-servlet-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-servlet:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/commons-compress-1.21.jar -->
+implementation "org.apache.commons:commons-compress:1.21"
+
+//  hadoop/hdfs/lib/curator-recipes-4.2.0.jar -->
+implementation "org.apache.curator:curator-recipes:4.2.0"
+
+//  hadoop/hdfs/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar -->
+implementation "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"
+
+//  hadoop/hdfs/lib/okhttp-2.7.5.jar -->
+implementation "com.squareup.okhttp:okhttp:2.7.5"
+
+//  hadoop/hdfs/lib/kerb-crypto-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-crypto:1.0.1"
+
+//  hadoop/hdfs/lib/asm-5.0.4.jar -->
+// Found info on search.maven.org for hadoop/hdfs/lib/asm-5.0.4.jar --> implementation "org.ow2.asm:asm:5.0.4"
+//  hadoop/hdfs/lib/kerb-admin-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-admin:1.0.1"
+
+//  hadoop/hdfs/lib/audience-annotations-0.5.0.jar -->
+implementation "org.apache.yetus:audience-annotations:0.5.0"
+
+//  hadoop/hdfs/lib/j2objc-annotations-1.1.jar -->
+implementation "com.google.j2objc:j2objc-annotations:1.1"
+
+//  hadoop/hdfs/lib/paranamer-2.3.jar -->
+implementation "com.thoughtworks.paranamer:paranamer:2.3"
+
+//  hadoop/hdfs/lib/kerb-client-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-client:1.0.1"
+
+//  hadoop/hdfs/lib/commons-collections-3.2.2.jar -->
+implementation "commons-collections:commons-collections:3.2.2"
+
+//  hadoop/hdfs/lib/commons-codec-1.15.jar -->
+implementation "commons-codec:commons-codec:1.15"
+
+//  hadoop/hdfs/lib/jettison-1.1.jar -->
+implementation "org.codehaus.jettison:jettison:1.1"
+
+//  hadoop/hdfs/lib/jackson-annotations-2.13.2.jar -->
+implementation "com.fasterxml.jackson.core:jackson-annotations:2.13.2"
+
+//  hadoop/hdfs/lib/netty-3.10.6.Final.jar -->
+implementation "io.netty:netty:3.10.6.Final"
+
+//  hadoop/hdfs/lib/reload4j-1.2.18.3.jar -->
+implementation "ch.qos.reload4j:reload4j:1.2.18.3"
+
+//  hadoop/hdfs/lib/token-provider-1.0.1.jar -->
+implementation "org.apache.kerby:token-provider:1.0.1"
+
+//  hadoop/hdfs/lib/accessors-smart-2.4.7.jar -->
+implementation "net.minidev:accessors-smart:2.4.7"
+
+//  hadoop/hdfs/lib/jersey-core-1.19.jar -->
+implementation "com.sun.jersey:jersey-core:1.19"
+
+//  hadoop/hdfs/lib/json-smart-2.4.7.jar -->
+implementation "net.minidev:json-smart:2.4.7"
+
+//  hadoop/hdfs/lib/commons-beanutils-1.9.4.jar -->
+implementation "commons-beanutils:commons-beanutils:1.9.4"
+
+//  hadoop/hdfs/lib/kerb-common-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-common:1.0.1"
+
+//  hadoop/hdfs/lib/commons-text-1.4.jar -->
+implementation "org.apache.commons:commons-text:1.4"
+
+//  hadoop/hdfs/lib/kerb-simplekdc-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-simplekdc:1.0.1"
+
+//  hadoop/hdfs/lib/jersey-server-1.19.jar -->
+implementation "com.sun.jersey:jersey-server:1.19"
+
+//  hadoop/hdfs/lib/jsch-0.1.55.jar -->
+implementation "com.jcraft:jsch:0.1.55"
+
+//  hadoop/hdfs/lib/jetty-http-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-http:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/re2j-1.1.jar -->
+implementation "com.google.re2j:re2j:1.1"
+
+//  hadoop/hdfs/lib/commons-lang3-3.12.0.jar -->
+implementation "org.apache.commons:commons-lang3:3.12.0"
+
+//  hadoop/hdfs/lib/kerb-core-1.0.1.jar -->
+implementation "org.apache.kerby:kerb-core:1.0.1"
+
+//  hadoop/hdfs/lib/nimbus-jose-jwt-9.8.1.jar -->
+implementation "com.nimbusds
+net.minidev:nimbus-jose-jwt
+json-smart:9.8.1
+1.3.2"
+
+//  hadoop/hdfs/lib/httpclient-4.5.13.jar -->
+implementation "org.apache.httpcomponents:httpclient:4.5.13"
+
+//  hadoop/hdfs/lib/jetty-xml-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-xml:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/animal-sniffer-annotations-1.17.jar -->
+implementation "org.codehaus.mojo:animal-sniffer-annotations:1.17"
+
+//  hadoop/hdfs/lib/jetty-security-9.4.43.v20210629.jar -->
+implementation "org.eclipse.jetty:jetty-security:9.4.43.v20210629"
+
+//  hadoop/hdfs/lib/leveldbjni-all-1.8.jar -->
+implementation "org.fusesource.leveldbjni:leveldbjni-all:1.8"
+
+//  hadoop/hdfs/lib/commons-net-3.6.jar -->
+implementation "commons-net:commons-net:3.6"
+
+//  hadoop/hdfs/lib/kerby-util-1.0.1.jar -->
+implementation "org.apache.kerby:kerby-util:1.0.1"
+
+//  hadoop/hdfs/lib/jsr305-3.0.2.jar -->
+implementation "com.google.code.findbugs:jsr305:3.0.2"
+
+//  hadoop/hdfs/lib/jackson-mapper-asl-1.9.13.jar -->
+// Found info on search.maven.org for hadoop/hdfs/lib/jackson-mapper-asl-1.9.13.jar --> implementation "org.codehaus.jackson:jackson-mapper-asl:1.9.13"
+//  hadoop/hdfs/lib/commons-math3-3.1.1.jar -->
+implementation "org.apache.commons:commons-math3:3.1.1"
+
+//  hadoop/hdfs/lib/commons-daemon-1.0.13.jar -->
+implementation "commons-daemon:commons-daemon:1.0.13"
+
+//  hadoop/hdfs/lib/gson-2.8.9.jar -->
+implementation "com.google.code.gson:gson:2.8.9"
+
+//  hadoop/hdfs/lib/hadoop-shaded-protobuf_3_7-1.1.1.jar -->
+implementation "org.apache.hadoop.thirdparty
+com.google.protobuf:hadoop-shaded-protobuf_3_7
+protobuf-java:1.1.1
+3.7.1"
+
+//  hadoop/hdfs/lib/zookeeper-3.5.6.jar -->
+implementation "org.apache.zookeeper:zookeeper:3.5.6"
+
+//  hadoop/hdfs/sources/hadoop-hdfs-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs:3.3.3"
+//  hadoop/hdfs/sources/hadoop-hdfs-client-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-client-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs-client:3.3.3"
+//  hadoop/hdfs/sources/hadoop-hdfs-rbf-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-rbf-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs-rbf:3.3.3"
+//  hadoop/hdfs/sources/hadoop-hdfs-client-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-client-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs-client:3.3.3"
+//  hadoop/hdfs/sources/hadoop-hdfs-native-client-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-native-client-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs-native-client:3.3.3"
+//  hadoop/hdfs/sources/hadoop-hdfs-native-client-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-native-client-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs-native-client:3.3.3"
+//  hadoop/hdfs/sources/hadoop-hdfs-rbf-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-rbf-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs-rbf:3.3.3"
+//  hadoop/hdfs/sources/hadoop-hdfs-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/hdfs/sources/hadoop-hdfs-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-hdfs:3.3.3"
+//  hadoop/hdfs/hadoop-hdfs-3.3.3-tests.jar -->
+implementation "org.apache.hadoop:hadoop-hdfs:3.3.3"
+
+//  hadoop/mapreduce/lib-examples/hsqldb-2.3.4.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/lib-examples/hsqldb-2.3.4.jar --> implementation "org.hsqldb:hsqldb:2.3.4"
+//  hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-jobclient:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.3-tests.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-jobclient:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-shuffle-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-shuffle:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-common:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-uploader-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-uploader:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-core:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-examples-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-examples:3.3.3"
+
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-shuffle:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-core:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-core:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-hs-plugins:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-app:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-hs:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-shuffle:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-common:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-app:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-common:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-hs-plugins:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-jobclient:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-nativetask:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-nativetask:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-examples:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.3-test-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.3-test-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-hs:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-examples:3.3.3"
+//  hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.3-sources.jar -->
+// Found info on search.maven.org for hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.3-sources.jar --> implementation "org.apache.hadoop:hadoop-mapreduce-client-jobclient:3.3.3"
+//  hadoop/mapreduce/hadoop-mapreduce-client-hs-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-hs:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-hs-plugins:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-nativetask-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-nativetask:3.3.3"
+
+//  hadoop/mapreduce/hadoop-mapreduce-client-app-3.3.3.jar -->
+implementation "org.apache.hadoop:hadoop-mapreduce-client-app:3.3.3"
+
+//  hadoop/client/hadoop-client-runtime-3.3.3.jar -->
+implementation "org.apache.hadoop.thirdparty
+com.google.protobuf
+org.apache.hadoop.thirdparty
+com.google.guava
+com.google.guava
+com.google.guava
+com.google.errorprone
+com.google.j2objc
+org.codehaus.mojo
+commons-cli
+org.apache.commons
+org.apache.httpcomponents
+org.apache.httpcomponents
+commons-codec
+commons-io
+commons-net
+commons-collections
+jakarta.activation
+org.eclipse.jetty
+org.eclipse.jetty
+org.eclipse.jetty
+com.sun.jersey
+commons-beanutils
+org.apache.commons
+org.apache.commons
+org.apache.commons
+org.apache.avro
+com.thoughtworks.paranamer
+com.google.re2j
+com.google.code.gson
+com.nimbusds
+net.minidev
+com.github.stephenc.jcip
+net.minidev
+org.apache.curator
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.curator
+org.apache.curator
+org.apache.commons
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+org.apache.kerby
+com.fasterxml.jackson.core
+com.fasterxml.jackson.core
+org.codehaus.woodstox
+com.fasterxml.woodstox
+dnsjava
+com.squareup.okhttp
+com.squareup.okio
+com.fasterxml.jackson.core
+org.eclipse.jetty.websocket
+org.eclipse.jetty
+org.eclipse.jetty
+org.eclipse.jetty
+org.eclipse.jetty
+org.eclipse.jetty.websocket
+org.eclipse.jetty.websocket
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+org.jline
+javax.servlet
+com.sun.jersey
+javax.ws.rs
+com.sun.jersey
+com.fasterxml.jackson.module
+jakarta.xml.bind
+com.fasterxml.jackson.jaxrs
+com.fasterxml.jackson.jaxrs:hadoop-shaded-protobuf_3_7
+protobuf-java
+hadoop-shaded-guava
+guava
+failureaccess
+listenablefuture
+error_prone_annotations
+j2objc-annotations
+animal-sniffer-annotations
+commons-cli
+commons-math3
+httpclient
+httpcore
+commons-codec
+commons-io
+commons-net
+commons-collections
+jakarta.activation-api
+jetty-util-ajax
+jetty-webapp
+jetty-xml
+jersey-servlet
+commons-beanutils
+commons-configuration2
+commons-lang3
+commons-text
+avro
+paranamer
+re2j
+gson
+nimbus-jose-jwt
+json-smart
+jcip-annotations
+accessors-smart
+curator-framework
+kerb-simplekdc
+kerb-client
+kerby-config
+kerb-common
+kerb-crypto
+kerb-util
+token-provider
+kerb-admin
+kerb-server
+kerb-identity
+kerby-xdr
+curator-client
+curator-recipes
+commons-compress
+kerb-core
+kerby-pkix
+kerby-asn1
+kerby-util
+jackson-databind
+jackson-core
+stax2-api
+woodstox-core
+dnsjava
+okhttp
+okio
+jackson-annotations
+websocket-client
+jetty-client
+jetty-http
+jetty-util
+jetty-io
+websocket-common
+websocket-api
+jline-builtins
+jline-terminal-jansi
+jline-remote-telnet
+jline-style
+jline-reader
+jline
+jline-terminal-jna
+jline-terminal
+jline-remote-ssh
+javax.servlet-api
+jersey-core
+jsr311-api
+jersey-client
+jackson-module-jaxb-annotations
+jakarta.xml.bind-api
+jackson-jaxrs-json-provider
+jackson-jaxrs-base:1.1.1
+3.7.1
+1.1.1
+30.1.1-jre
+1.0.1
+9999.0-empty-to-avoid-conflict-with-guava
+2.5.1
+1.3
+1.17
+1.2
+3.1.1
+4.5.13
+4.4.13
+1.15
+2.8.0
+3.6
+3.2.2
+1.2.1
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+1.19
+1.9.4
+2.1.1
+3.12.0
+1.4
+1.7.7
+2.3
+1.1
+2.8.9
+9.8.1
+1.3.2
+1.0-1
+2.4.7
+4.2.0
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+4.2.0
+4.2.0
+1.21
+1.0.1
+1.0.1
+1.0.1
+1.0.1
+2.13.2.2
+2.13.2
+4.2.1
+5.3.0
+2.1.7
+2.7.5
+1.6.0
+2.13.2
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.9.0
+3.1.0
+1.19
+1.1.1
+1.19
+2.13.2
+2.3.3
+2.13.2
+2.13.2"
+
+//  hadoop/client/hadoop-client-minicluster-3.3.3.jar -->
+implementation "org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.zookeeper
+org.apache.zookeeper
+org.apache.yetus
+org.apache.geronimo.specs
+org.ehcache
+org.terracotta
+org.terracotta
+com.zaxxer
+com.microsoft.sqlserver
+org.apache.hadoop
+org.apache.hadoop
+de.ruedigermoeller
+com.cedarsoftware
+com.cedarsoftware
+org.apache.hadoop
+commons-daemon
+io.netty
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+net.bytebuddy
+net.bytebuddy
+net.bytebuddy
+com.sun.jersey
+com.sun.jersey
+com.sun.jersey
+org.codehaus.jettison
+com.sun.jersey
+com.sun.jersey
+com.jcraft
+org.apache.hadoop
+org.eclipse.jetty
+org.eclipse.jetty
+org.eclipse.jetty
+javax.annotation
+org.eclipse.jetty.websocket
+javax.websocket
+org.eclipse.jetty.websocket
+org.eclipse.jetty.websocket
+org.eclipse.jetty
+org.eclipse.jetty
+javax.websocket
+io.dropwizard.metrics
+org.apache.hadoop
+org.eclipse.jetty
+com.sun.jersey.jersey-test-framework
+com.sun.jersey
+org.glassfish.grizzly
+org.glassfish.grizzly
+org.glassfish.grizzly
+com.sun.jersey
+org.glassfish.grizzly
+org.glassfish.grizzly
+com.sun.jersey.contribs:hadoop-client-minicluster
+hadoop-minicluster
+hadoop-yarn-server-tests
+hadoop-yarn-server-common
+hadoop-registry
+zookeeper
+zookeeper-jute
+audience-annotations
+geronimo-jcache_1.0_spec
+sizeof
+offheap-store
+statistics
+HikariCP-java7
+mssql-jdbc
+hadoop-yarn-server-resourcemanager
+hadoop-yarn-server-applicationhistoryservice
+fst
+java-util
+json-io
+hadoop-hdfs
+commons-daemon
+netty-all
+hadoop-mapreduce-client-hs
+hadoop-yarn-server-timelineservice
+hadoop-common
+hadoop-mapreduce-client-jobclient
+byte-buddy
+byte-buddy-dep
+byte-buddy-agent
+jersey-core
+jersey-client
+jersey-json
+jettison
+jersey-server
+jersey-servlet
+jsch
+hadoop-yarn-server-nodemanager
+jetty-annotations
+jetty-plus
+jetty-jndi
+javax.annotation-api
+javax-websocket-client-impl
+javax.websocket-client-api
+websocket-server
+websocket-servlet
+jetty-servlet
+jetty-security
+javax.websocket-api
+metrics-core
+hadoop-yarn-server-web-proxy
+jetty-server
+jersey-test-framework-grizzly2
+jersey-grizzly2-servlet
+grizzly-http-servlet
+grizzly-http-server
+grizzly-rcm
+jersey-grizzly2
+grizzly-http
+grizzly-framework
+jersey-guice:3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.5.6
+3.5.6
+0.5.0
+1.0-alpha-1
+0.3.0
+2.3.2
+1.4.3
+2.4.12
+6.2.1.jre7
+3.3.3
+3.3.3
+2.50
+1.9.0
+2.5.1
+3.3.3
+1.0.13
+4.1.68.Final
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+1.9.10
+1.9.10
+1.9.10
+1.19
+1.19
+1.19
+1.1
+1.19
+1.19
+0.1.55
+3.3.3
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+1.3.2
+9.4.43.v20210629
+1.0
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+9.4.43.v20210629
+1.0
+3.2.4
+3.3.3
+9.4.43.v20210629
+1.19
+1.19
+2.2.21
+2.2.21
+2.2.21
+1.19
+2.2.21
+2.2.21
+1.19"
+
+//  hadoop/client/hadoop-client-api-3.3.3.jar -->
+implementation "org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop
+org.apache.hadoop:hadoop-client-api
+hadoop-client
+hadoop-common
+hadoop-auth
+hadoop-hdfs-client
+hadoop-yarn-api
+hadoop-yarn-client
+hadoop-mapreduce-client-core
+hadoop-yarn-common
+hadoop-mapreduce-client-jobclient
+hadoop-mapreduce-client-common
+hadoop-annotations:3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3
+3.3.3"
+
